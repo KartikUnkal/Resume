@@ -1,0 +1,185 @@
+body{
+    margin: 20px 200px 0;
+   
+}
+
+#page{
+    margin: 24px;
+    padding: 24px;
+    
+}
+#head{
+    display: flex;
+}
+#name h1{
+    font-family: sans-serif;
+    font-size: 40px;
+}
+#name p{
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: -50px;
+}
+#name{
+    margin: 12px;
+    vertical-align: -700px;
+    line-height: 0%;
+}
+
+#subname{
+    color: rgb(158, 158, 246);
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.dark{
+    font-weight: bold;
+}
+#details{
+    padding-left: 36px;
+    font-size: 16px;
+    line-height: 24px;
+}
+tr{
+    text-align: right;
+}
+td{
+    text-align: left;
+}
+content p{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+#pgskill  p { 
+    font-size: 20px; 
+    font-weight: 700;
+} 
+
+/* aside */
+#skill{
+    font-size: 8px;
+    font-weight: 500;
+}
+.container { 
+    background-color: rgb(192, 192, 192); 
+    width: 80%;  
+} 
+.skill { 
+    background-color: gray;
+    color: white; 
+    padding: 1%; 
+    text-align: right; 
+    font-size: 12px; 
+    
+} 
+.html { 
+    background-color: rgb(116, 194, 92); 
+    width: 93%; 
+} 
+.Wordpress{
+    background-color: blue; 
+    width: 90%;
+}
+.php { 
+    background-color: cornflowerblue;
+    width: 80%; 
+} 
+.css{
+    background-color: yellow;
+    width: 80%; 
+}
+.mysql{
+    background-color: red;
+    width: 70%;
+}
+#dblue{
+    color: blue;
+}
+#blue{
+    color: cornflowerblue;
+}
+#green{
+    color: rgb(116, 194, 92);
+}
+#yellow{
+    color: yellow;
+}
+#red{
+    color: red;
+}
+#Gskill p{
+    font-weight: 700;
+}
+.fas{
+    color: blue;
+}
+.gr{
+    color: green;
+}
+.ye{
+    color: rgb(235, 251, 0);
+}
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
+#Lskill p{
+    font-weight: 600;
+}
+#Lskill th{
+    text-align: left;
+}
+/* section */
+section{
+    width: 65%;
+    float: left;
+}
+
+.content{
+    display: flex;
+    
+}
+#em{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.fa-chevron-down{
+    background-color: white;
+}
+.fa-chevron-right{
+    color:blue;
+    padding-top: 20px;
+    
+}
+.sec-det{
+    padding-top: -120px;
+    vertical-align: top;
+}
+.gap p{
+    color:grey;
+    padding-left: 50px;
+    padding-top: 12px;
+    font-size: 20px;
+}
+.sec-det p{
+    color: grey;
+    line-height: 0%;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+#downgreen{
+    background-color: green;
+    color: white;
+}
+#cooper{
+    padding-left: 270px;
+}
+.grrr{
+    color: rgb(25, 248, 25);
+}
